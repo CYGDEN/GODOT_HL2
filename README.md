@@ -1,2 +1,1 @@
-# GODOT_HL2
-🎮 PORTED HALF - LIVE 2 IN GODOT
+[![](https://img.youtube.com/vi/NAH2PYI9VoA/0.jpg)](https://youtu.be/NAH2PYI9VoA?si=iHZnu-VIrpA_eqQY)
